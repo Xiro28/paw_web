@@ -15,6 +15,7 @@ const [barVisibility, setBarVisibiility] = useState(true);
 const [search, setSearch] = useState('');
 const [user, setUser] = useState(null);
 
+
 const filtered = useMemo(() => {
   const term = search.trim().toLowerCase();
   return pets.filter(p => {
