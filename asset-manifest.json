@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/paw_web/static/css/main.71827547.css",
+    "main.js": "/paw_web/static/js/main.3180606a.js",
+    "static/js/453.7851d637.chunk.js": "/paw_web/static/js/453.7851d637.chunk.js",
+    "static/media/loading.gif": "/paw_web/static/media/loading.1a2b12fda575740f4fe7.gif",
+    "index.html": "/paw_web/index.html",
+    "main.71827547.css.map": "/paw_web/static/css/main.71827547.css.map",
+    "main.3180606a.js.map": "/paw_web/static/js/main.3180606a.js.map",
+    "453.7851d637.chunk.js.map": "/paw_web/static/js/453.7851d637.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71827547.css",
+    "static/js/main.3180606a.js"
+  ]
+}
